@@ -23,4 +23,4 @@ class Vector:
 
 
 print(Vector (1,2))
-print(1)
+print(1156)
